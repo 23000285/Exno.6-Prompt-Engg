@@ -1,6 +1,6 @@
 # Exno.6-Prompt-Engg
 # Aim:
-Development of Python Code Compatible with Multiple AI Tools
+Development of Python Code Compatible with Multiple AI Tool.
 
 
 # ALGORITHM : 
